@@ -1,0 +1,43 @@
+*{
+    margin: 10px;
+    background-color: antiquewhite;
+    font-family: Arial, sans-serif;
+   
+    text-align: center;
+}
+.title {
+    color: #5e6f8b;
+    font-weight: 900;
+}
+header {
+    text-align: center;
+    background-color:
+    padding: 10px;
+    
+}
+.top{
+    margin-left: 25px;
+    padding: 30px;
+    
+}
+p{
+    font-weight: 800;
+}
+main{
+    margin-top: 20px;
+}
+section{
+    margin-top:20px;
+    margin-left: 25px;
+}
+ul,ol{
+    outline: 3px solid black;
+}
+h2{
+    color: #4b5061;
+    font-weight: 900;
+}
+
+li{
+    font-weight:600;
+}
